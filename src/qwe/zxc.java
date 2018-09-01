@@ -1,0 +1,14 @@
+package qwe;
+
+public class zxc {
+    public static void main(String[] args) {
+        int a =1;
+        while (a <=99) {
+            System.out.println("нечетное число" + a);
+            a+= 2;
+        }
+
+    }
+}
+
+
